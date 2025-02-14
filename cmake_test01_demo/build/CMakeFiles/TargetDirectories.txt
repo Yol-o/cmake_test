@@ -1,3 +1,0 @@
-E:/GingerNan/cmake_test/build/CMakeFiles/my_hello.dir
-E:/GingerNan/cmake_test/build/CMakeFiles/edit_cache.dir
-E:/GingerNan/cmake_test/build/CMakeFiles/rebuild_cache.dir
