@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/GingerNan/cmake_test/build",
+  "command": "G:\\APPLIC~1\\MICROS~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/my_hello.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\my_hello.dir\\src\\hello.cpp.obj -c E:\\GingerNan\\cmake_test\\src\\hello.cpp",
+  "file": "E:/GingerNan/cmake_test/src/hello.cpp",
+  "output": "CMakeFiles/my_hello.dir/src/hello.cpp.obj"
+}
+]
